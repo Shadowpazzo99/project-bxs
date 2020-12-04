@@ -1,0 +1,48 @@
+>blocks
+  >override
+    ripple.json
+    salvo.json
+    spectre.json
+  >production
+    blue-crystal-forge.hjson
+    light-blue-crystal-forge.hjson
+    orange-crystal-forge.hjson
+    pink-crystal-forge.hjson
+    purple-crystal-forge.hjson
+    red-crystal-forge.hjson
+    white-crystal-forge.hjson
+    yellow-crystal-forge.hjson
+  advanced-overdrive-projector.json
+  compact-battery.json
+  crystal-reinforced-wall.hjson
+  green-crystal-wall.hjson
+  green-crystal-wall-large.hjson
+  light-blue-crystal-force-projector.json
+  light-blue-crystal-mend-projector.json
+  light-blue-crystal-overdrive-projector.json
+  micro-impact-reactor.hjson
+  mini-generator.json
+  orange-crystal-miner-drone-factory.hjson
+  orange-crystal-repair-drone-factory.hjson
+  ore-green-crystal.hjson
+  pink-crystal-bridge-conveyor.json
+  pink-crystal-conduit.hjson
+  pink-crystal-conveyor.json
+  white-crystal-wall.hjson
+  white-crystal-wall-large.hjson
+  yellow-crystal-wall.hjson
+  yellow-crystal-wall-large.hjson
+>items
+  blue-crystal.hjson
+  green-crystal.hjson
+  light-blue-crystal.hjson
+  orange-crystal.hjson
+  pink-crystal.hjson
+  purple-crystal.hjson
+  red-crystal.hjson
+  white-crystal.hjson
+  yellow-crystal.hjson
+>liquids
+>mechs
+>units
+>zones
