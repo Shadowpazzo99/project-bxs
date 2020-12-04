@@ -1,0 +1,37 @@
+>blocks
+  >override
+    ripple.json
+    salvo.json
+    spectre.json
+  >production
+    magma-melter.hjson
+    magma-solidifier.hjson
+    obsidian-forge.hjson
+    osmium-extractor.hjson
+    osmium-reconstructor.hjson
+    platinum-forge.hjson
+    platinum-melter.hjson
+    platinum-separator.hjson
+    sand-separator.hjson
+    thermal-extractor.hjson
+  hot-magma.hjson
+  iridium-wall.hjson
+  lead-wall.hjson
+  obsidian-wall.hjson
+  ore-iridium.hjson
+  phoenix.hjson
+>items
+  iridium.hjson
+  magma-rock.hjson
+  obsidian.hjson
+  osmium.hjson
+  platinum.hjson
+  platinum-ore.hjson
+  raw-platinum.hjson
+>liquids
+  lava.hjson
+  magma.hjson
+  molten-platinum.hjson
+>mechs
+>units
+>zones
