@@ -41,7 +41,26 @@
   shiner-pad.json
   sniper.hjson
 >items
+  darkium.json
+  grayum.json
+  lightium.json
+  rdarkium.json
+  rlightium.json
+  DGL-ore.json
 >liquids
+  l-darkium.hjson
 >mechs
+  awdarker.json
+  awshiner.json
+  darker.json
+  shiner.json
+  grayumer.json
+  DGL-dude.hjson
 >units
+  DGL-ad.hjson
+  DGL-miner.json
+  javelin.json
+  mid.hjson
+  mis.hjson
 >zones
+dpost.hjson
