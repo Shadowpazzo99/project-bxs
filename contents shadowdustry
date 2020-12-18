@@ -1,6 +1,45 @@
 >blocks
   >override
   >production
+  darkium-assembler.hjson
+  darkium-melter.hjson
+  darkium-refiner.hjson
+  lightium-assembler.hjson
+  lightium-refiner.hjson
+  DGL-assembler.hjson
+awdark-drill.json
+awdarker-pad.json
+awdarkium-turret.hson
+awgrayium-turret.hson
+awshiner-pad.json
+dark-drill.json
+darker-pad.json
+darkium-shotgun.hjson
+darkium-turret.hjson
+darkium-wall.hjson
+darkium-wall2.hjson
+darkpanel.hjson
+dfireshower.json
+DGL-ad-factory.hjson
+DGL-drill.json
+DGL-dude-pad.json
+DGL-mender.json
+DGL-mfactory.hjson
+DGL-overdrive.json
+DGL-turret.json
+DGL-wall.hjson
+DGL-wall2.hjson
+javelin-factory.hjson
+lac.json
+lconveyor.json
+lightium-turret.hjson
+lightium-wall.hjson
+lightium-wall2.hjson
+mis-factory.hjson
+shine-drill.json
+shinepanel.hjson
+shiner-pad.json
+sniper.hjson
 >items
 >liquids
 >mechs
