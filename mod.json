@@ -1,4 +1,8 @@
+name: test
+displayName: test
+description: h
 author: Shadow|Pazzo#6596,Baronch#9878
-name: project_BxS
-description: y e s
-
+version: 0.1
+main: h
+minGameVersion: 120
+repo: shadowpazzo99/project-bxs
