@@ -1,0 +1,10 @@
+{
+    type: material
+name: platinum
+description: fuckin idk
+cost: 3
+hardness: 3
+flammability: 0
+color: #000000
+radioactivity: 0
+}
