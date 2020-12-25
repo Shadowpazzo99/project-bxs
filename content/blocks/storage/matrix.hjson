@@ -1,7 +1,7 @@
 {
 name: Core: matrix
 description: An upgrade from kernel. Has a big amount of storage but a tiny amount of health. Spawns theta.
-details: A core that compact items reducing them to atoms. Those techniques are rarely used nowadays. 
+details: A core that compacts items reducing them to atoms. Those techniques are rarely used nowadays. 
 size: 6
 health: 19000
 itemCapacity: 36000
