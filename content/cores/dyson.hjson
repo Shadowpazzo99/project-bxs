@@ -18,7 +18,7 @@ requirements: [
     phase-fabric/5000
 ]
 category: effect
-research: core-kernel
+research: copper-wall
 
 unitType: gamma
 unitCapModifier: 32
