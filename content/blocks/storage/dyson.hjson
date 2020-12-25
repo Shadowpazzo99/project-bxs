@@ -19,7 +19,7 @@ requirements: [
 ]
 
 category: effect
-research: copper-wall
+research: core-kernel
 
 unitType: gamma
 unitCapModifier: 32
