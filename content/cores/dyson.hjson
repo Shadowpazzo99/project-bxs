@@ -1,0 +1,24 @@
+type: CoreBlock
+name: "Core: dyson"
+description: An upgrade to kernel. Has a discreet amount of storage but a small amount of health. Spawns delta.
+details: It once was the strongest core in the industry, used for hard missions that required a self sufficient-auto-defending core. Unfortunately, the technology required to build it has been lost, only the blueprint of the storage has survived. 
+size: 6
+health: 22400
+itemCapacity: 27000
+
+requirements: [
+    copper/10000
+    lead/10000
+    metaglass/8000
+    graphite/9000
+    titanium/10000
+    plastanium/8000
+    silicon/10000
+    thorium/9000
+    phase-fabric/5000
+]
+category: effect
+research: copper-wall
+
+unitType: gamma
+unitCapModifier: 32
