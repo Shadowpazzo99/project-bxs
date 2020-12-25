@@ -1,0 +1,27 @@
+{
+name: Core: matrix
+description: An upgrade from kernel. Has a big amount of storage but a tiny amount of health. Spawns theta.
+details: A core that compact items reducing them to atoms. Those techniques are rarely used nowadays. 
+size: 6
+health: 19000
+itemCapacity: 36000
+
+requirements: [
+    copper/10000
+    lead/10000
+    metaglass/8000
+    graphite/9000
+    titanium/10000
+    plastanium/8000
+    silicon/10000
+    thorium/9000
+    phase-fabric/5000
+]
+
+category: effect
+research: core-kernel
+
+unitType: gamma
+unitCapModifier: 32
+
+}
