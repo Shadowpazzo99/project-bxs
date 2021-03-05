@@ -19,7 +19,7 @@ requirements: [
 ]
 
 category: effect
-research: core-kernel
+research: core-nucleus
 
 unitType: gamma
 unitCapModifier: 32
