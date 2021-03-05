@@ -7,9 +7,9 @@ health: 250
 range: 100
 ammoUseEffect: none
 maxAmmo: 30
-inaccuracy: 30
+inaccuracy: 14
 rotatespeed: 12
-reload: 1
+reload: 0.8
 	
 ammoTypes: {
 	scrap: {
