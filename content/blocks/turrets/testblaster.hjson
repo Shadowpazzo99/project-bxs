@@ -1,15 +1,15 @@
 type: ItemTurret
-name: test
-description: toast.
+name: test turret
+description: blasts enemies with rapid pace at medium range with decent inaccuracy, effective against swarms.
 
 size: 1
-health: 250
-range: 100
+health: 230
+range: 145
 ammoUseEffect: none
-maxAmmo: 30
-inaccuracy: 14
-rotatespeed: 12
-reload: 0.8
+maxAmmo: 40
+inaccuracy: 12
+rotatespeed: 16
+reload: 0.6
 
 ammoTypes: {
 	scrap: {
@@ -25,7 +25,7 @@ ammoTypes: {
 	coal: {
 	    type: BasicBulletType
 		speed: 3.0
-		damage: 2
+		damage: 3
 		bulletWidth: 5
 		bulletHeight: 7
 		frontColor: FFA500
@@ -39,18 +39,20 @@ ammoTypes: {
 	silicon: {
 	    type: BasicBulletType
 		speed: 3.0
-		damage: 4
+		damage: 5
 		bulletWidth: 5
 		bulletHeight: 7
 		shootEffect: shootSmall
 		smokeEffect: shootSmallSmoke
-		homingPower: 0.05
+		homingPower: 0.10
 		ammoMultiplier: 10
 	}
 }
 
 requirements: [
-	scrap/35
+	scrap/40
+	copper/35
+	lead/10
 ]
 
 category: turret
