@@ -10,7 +10,7 @@ maxAmmo: 30
 inaccuracy: 14
 rotatespeed: 12
 reload: 0.8
-	
+
 ammoTypes: {
 	scrap: {
 	    type: BasicBulletType

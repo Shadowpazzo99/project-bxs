@@ -1,7 +1,8 @@
 {
-name: Core: dyson
-description: An upgrade from kernel. Has a discreet amount of storage but a small amount of health. Spawns delta.
-details: It once was the strongest core in the industry, used for hard missions that required a self sufficient-auto-defending core. Unfortunately, the technology required to build it has been lost, only the blueprint of the storage has survived. 
+type: CoreBlock
+name: Core: Dyson
+description: An upgrade from kernel. has a balanced storage and health. Spawns delta.
+details: It once was the strongest core in the industry, used for hard missions that required a self sufficient-auto-defending core. capable of sustaining in both peaceful grounds and battlefields
 size: 6
 health: 22400
 itemCapacity: 27000
@@ -23,5 +24,4 @@ research: core-nucleus
 
 unitType: gamma
 unitCapModifier: 32
-
 }

@@ -1,8 +1,8 @@
 {
 type: CoreBlock
-name: Core: matrix
+name: Core: Matrix
 description: An upgrade from kernel. Has a big amount of storage but a tiny amount of health. Spawns theta.
-details: A core that compacts items reducing them to atoms. Those techniques are rarely used nowadays. 
+details: A core that compacts items reducing them to atoms. 
 size: 6
 health: 19000
 itemCapacity: 36000
@@ -24,5 +24,4 @@ research: core-nucleus
 
 unitType: gamma
 unitCapModifier: 32
-
 }
