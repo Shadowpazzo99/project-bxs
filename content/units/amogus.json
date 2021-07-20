@@ -14,11 +14,11 @@
     "hitSize": 20,
     "engineSize": 0,
     "armor": 3,
-    "commandLimit": 3,
+    "commandLimit": 6,
     "weapons": [
         {
             "name": "smg",
-            "rotate": false,
+            "rotate": true,
             "mirror": true,
             "top" : false,
             "inaccuracy": 1,
