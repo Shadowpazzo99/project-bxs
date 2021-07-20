@@ -2,14 +2,14 @@
 type: CoreBlock
 name: Core: Dyson
 description: An upgrade from kernel. has a balanced storage and health. Spawns delta.
-details: It once was the strongest core in the industry, used for hard missions that required a self sufficient-auto-defending core. capable of sustaining in both peaceful grounds and battlefields
+details: It once was the strongest core in the industry, used for hard missions that required a self sufficient-auto-defending core(its a lie). capable of sustaining in both peaceful grounds and battlefields
 size: 6
 health: 22400
 itemCapacity: 27000
 
 requirements: [
-    copper/10000
-    lead/10000
+    copper/11000
+    lead/11000
     metaglass/8000
     graphite/9000
     titanium/10000

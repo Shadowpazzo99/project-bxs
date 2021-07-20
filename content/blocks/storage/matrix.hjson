@@ -5,11 +5,11 @@ description: An upgrade from kernel. Has a big amount of storage but a tiny amou
 details: A core that compacts items reducing them to atoms. 
 size: 6
 health: 19000
-itemCapacity: 36000
+itemCapacity: 41000
 
 requirements: [
-    copper/10000
-    lead/10000
+    copper/11000
+    lead/11000
     metaglass/8000
     graphite/9000
     titanium/10000

@@ -1,7 +1,7 @@
 {
 type: material
-name: platinum
-description: its platinum i guess
+name: Platinum
+description: Its platinum i guess
 cost: 5
 hardness: 5
 flammability: 0
