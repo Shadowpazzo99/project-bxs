@@ -1,0 +1,10 @@
+{
+type: material
+name: h
+description: looks pretty tough and sharp amirite?
+cost: 3
+hardness: 6
+flammability: 0
+color: #000000
+radioactivity: 0
+}

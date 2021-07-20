@@ -1,0 +1,10 @@
+{
+type: material
+name: platinum
+description: its platinum i guess
+cost: 5
+hardness: 5
+flammability: 0
+color: #000000
+radioactivity: 0
+}
