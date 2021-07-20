@@ -1,0 +1,11 @@
+type: Wall
+name: Large platinum wall
+description: sexier
+health: 3400
+
+requirements: [
+  platinum/10
+]
+size: 2
+solid: true
+category: defense

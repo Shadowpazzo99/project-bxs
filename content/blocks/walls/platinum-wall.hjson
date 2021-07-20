@@ -1,0 +1,11 @@
+type: Wall
+name: Platinum wall
+description: sexy
+health: 850
+
+requirements: [
+  platinum/40
+]
+size: 1
+solid: true
+category: defense
